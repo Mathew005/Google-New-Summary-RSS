@@ -38,7 +38,7 @@ Follow these steps to get the application running on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Mathew005/Google-New-Summary-RSS.git
 cd AI-News-Summarizer
 ```
 
