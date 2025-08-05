@@ -1,0 +1,6 @@
+# requirements.txt
+flask
+feedparser
+python-dotenv
+google-generativeai
+ollama
