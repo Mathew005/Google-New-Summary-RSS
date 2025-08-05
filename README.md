@@ -3,7 +3,6 @@
 A dynamic web application that fetches the latest news from Google News, uses Large Language Models (LLMs) for summarization, and displays the results in a modern, responsive interface. The application features a non-blocking background task queue to process summaries, with on-screen articles being prioritized for a seamless user experience.
 
 ![Screenshot of the AI News Summarizer application](./screenshot.png)
-*(Note: You would replace this with an actual screenshot of the running application.)*
 
 ## Key Features ✨
 
