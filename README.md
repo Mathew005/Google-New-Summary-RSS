@@ -39,7 +39,7 @@ Follow these steps to get the application running on your local machine.
 
 ```bash
 git clone https://github.com/Mathew005/Google-New-Summary-RSS.git
-cd AI-News-Summarizer
+cd Google-New-Summary-RSS
 ```
 
 ### 3. Set Up a Virtual Environment
